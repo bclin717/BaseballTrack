@@ -15,7 +15,7 @@
 #include <opencv2\highgui\highgui.hpp>
 #include <opencv2\imgproc\imgproc.hpp>
 #include <opencv2\video\background_segm.hpp>
-
+#include <windows.h>
 
 
 // TODO:  在此參考您的程式所需要的其他標頭
